@@ -64,7 +64,7 @@ This project is a coding challenge for Acme Widget Co, simulating a backend syst
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/Jean-lucas-bracav/acme-basket.git
+git clone https://github.com/jeanlucas395ps/acme-basket.git
 cd acme-basket
 ```
 
