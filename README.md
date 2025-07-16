@@ -45,6 +45,7 @@ This project is a coding challenge for Acme Widget Co, simulating a backend syst
 
 ## Project Structure
 
+```bash
 ├── docker/ # Docker image configuration
 ├── src/
 │ └── Acme/
@@ -58,6 +59,7 @@ This project is a coding challenge for Acme Widget Co, simulating a backend syst
 ├── phpstan.neon
 ├── docker-compose.yml
 └── README.md
+```
 
 ## How to Run
 
