@@ -1,0 +1,11 @@
+# Composer dependencies
+/vendor/
+
+# PHPUnit
+.phpunit.result.cache
+
+# PHPStan
+/phpstan.cache
+
+# Logs
+*.log
